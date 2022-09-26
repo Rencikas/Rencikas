@@ -1,2 +1,2 @@
 
-[![Rencikas GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Rencikas GitHub stats](https://github-readme-stats.vercel.app/api?username=Rencikas)](https://github.com/anuraghazra/github-readme-stats)
