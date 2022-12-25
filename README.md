@@ -2,7 +2,7 @@ About me
 
 - Hi I'm Renčikas, I'm a developer from Lithuania 
 - I mainly work on gta 5 modifications like fivem
-- Programming languages: **JS/TS/AlpineJS/cpp/lua/html/css**
+- My tech stack: **JS/TS/AlpineJS/VueJS/cpp/lua/html/css**
 - You can reach me on discord: **Renčikas#1764**
 
 
