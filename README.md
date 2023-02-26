@@ -22,7 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=Rencikas&icon=1&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]([https://paypal.me/renchikas](https://paypal.me/renchikas?country.x=EN&locale.x=en_EN)) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/renchikas?country.x=EN&locale.x=en_EN ) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
