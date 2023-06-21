@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-💫 Hey, I'm Renčikas, I'm a self thought developer from Lithuania and I mainly work on website frontend and backend, I also as a hobby work on GTA V multiplayer modifications like fivem<br> 🔭 I’m currently working on: a big ambitious Fivem server<br>🌱 I’m currently learning: React JS<br>⚡ Fun fact: My first ever learned programming language was lua
+💫 Hey, I'm Renčikas, I'm a self thought developer from Lithuania and I mainly work on website frontend and backend, I also as a hobby work on GTA V multiplayer modifications like fivem<br> 🌱 I’m currently learning: React JS<br>⚡ Fun fact: My first ever learned programming language was lua
 
 
 ## 🌐 Socials:
