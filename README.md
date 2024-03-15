@@ -1,7 +1,6 @@
 
 # 💫 About Me:
-💫 Hey, I'm Renčikas, I'm a self thought developer from Lithuania and I usally work on GTA 5 modifications like fivem, but I also do work on websites<br> 🌱 I’m currently learning: React JS<br>⚡ Fun fact: My first ever learned programming language was lua
-
+Hey, I'm Kristijonas B. also known as Renchik. I am a self-taught developer from Lithuania. While I usually work on GTA 5 modifications such as FiveM, my skills are also broad in other areas such as web development.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7PqhkuuY6V) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Rencikas) 
